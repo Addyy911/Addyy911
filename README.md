@@ -1,16 +1,52 @@
-## Hi there 👋
+# 👋 Hi, I'm **Lady Lee**
 
-<!--
-**Addyy911/Addyy911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Your Role or Goal**  
+*Information Technology Student | Aspiring Web Developer*
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About Me
+
+- 💡 Interested in **software development and problem-solving**
+- 🌱 Currently learning **Python, HTML, PHP, Java, CSS, and JavaScript**
+- 🎯 Goal: Become a **professional software developer**
+- 🚀 Enjoy building projects and improving coding skills
+
+---
+
+## 🛠️ Skills
+
+### Programming Languages
+- Python
+- JavaScript
+- HTML
+- CSS
+- Java
+
+### Tools & Technologies
+- Git & GitHub
+- VS Code
+- Markdown
+
+---
+
+## 📂 Projects
+
+### 🔹 Project 1: Portfolio Website
+- Personal website to showcase skills and projects
+- **Technologies:** HTML, CSS
+- 🔗 [View Repository](https://github.com/Addyy911/portfolio)
+
+---
+
+## 📫 Contact & Links
+
+- 📧 Email: molinaladylee@gmail.com  
+- 💼 LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)  
+- 🌐 Portfolio: https://yourportfolio.com
+  
+---
+
+## 🎉 Fun Fact
+
+⚡ I enjoy learning new technologies and building creative projects!
