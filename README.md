@@ -1,6 +1,6 @@
 # 👋 Hi, I'm **Lady Lee**
 
-🎓 **Your Role or Goal**  
+🎓 **Goal**  
 *Information Technology Student | Aspiring Web Developer*
 
 ---
