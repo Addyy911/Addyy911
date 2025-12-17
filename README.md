@@ -35,15 +35,17 @@
 ### 🔹 Project 1: Portfolio Website
 - Personal website to showcase skills and projects
 - **Technologies:** HTML, CSS
-- 🔗 [View Repository](https://github.com/Addyy911/portfolio)
+- 🔗 [View Repository](https://github.com/Addyy911/web_portfolio)
 
 ---
 
 ## 📫 Contact & Links
 
-- 📧 Email: molinaladylee@gmail.com  
-- 💼 LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)  
-- 🌐 Portfolio: https://yourportfolio.com
+- 📧 Email: molinaladylee@gmail.com
+- 📱 Telegram: https://t.me/@Addyylee
+- 📘 Facebook: https://www.facebook.com/share/1Yo1qGtB2r/?mibextid=wwXIfr
+- 🎮 Discord: ladyleemolina
+
   
 ---
 
