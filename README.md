@@ -44,9 +44,7 @@
 - 📧 Email: molinaladylee@gmail.com
 - 📱 Telegram: https://t.me/@Addyylee
 - 📘 Facebook: https://www.facebook.com/share/1Yo1qGtB2r/?mibextid=wwXIfr
-- 🎮 Discord: ladyleemolina
 
-  
 ---
 
 ## 🎉 Fun Fact
